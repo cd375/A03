@@ -4,47 +4,48 @@
         <p>
         Step by step process 
         
-        Install Webstorm form Jetbrains.com/student
-        Install Git as a local program from git-scm.com/downloads
-        Set up Github on github.com/join
-        Connect Github with Webstorm 
-        In web storm press (Ctrl + Alt + S) for system preferences
-        Select Version control Git. Enter the path to the git.exe  
-        Add github password to webstorm 
-        In Webstorm press (Ctrl + Alt + S) for system preferences
-        Select Appearance and Behavior | System Settings | Passwords
-        Create a Repository
-        Click the + sign in the upper right corner
-        Choose “Create New repository”
-        The Repository is Set-up
-        Make the repository public and add the readme file.
-        Click Create 
-        Create a Repository from Webstorm
-        Select VCS and Import into Version Control
-        Import a Repository from Github
-        From Main page Select Checkout from version control🡪 Git  OR From within Webstorm Select VCS 🡪 Checkout from version control🡪 Git
-        Enter Github repository name 
-        Enter local pathname
-        Creating a Webstorm File
-        Choose File 🡪 HTML🡪HTML 5 or File🡪Stylesheet
-        Add files to Git
-        The Add to Git dialog opens.
-        Click Add. This adds to the local file system
-        Commit Your Changes
-        Push Change to Remote Repository
-        Click “Ctrl🡪 Shift 🡪 K”
-        Or “VCS 🡪 Git 🡪 Push”
-        File is now on Github
-        Set up Github Pages
-        Click Settings 
-        Check the repository name
-        Choose GitHub Page Location
-        Select “Master branch”
-        Note the published URL 
-        Check your GitHub Pages
-        Copy the Github.io URL into a browser
-        Post the URL into Moodle with your Github account URL
-        Definitions 
+        1. Install Webstorm form Jetbrains.com/student
+        2. Install Git as a local program from git-scm.com/downloads
+        3. Set up Github on github.com/join
+        4. Connect Github with Webstorm 
+          a. In web storm press (Ctrl + Alt + S) for system preferences
+          b. Select Version control Git. Enter the path to the git.exe  
+        5. Add github password to webstorm 
+          a. In Webstorm press (Ctrl + Alt + S) for system preferences
+          b. Select Appearance and Behavior | System Settings | Passwords
+        6. Create a Repository
+          a. Click the + sign in the upper right corner
+          b. Choose “Create New repository”
+        7. The Repository is Set-up
+          a. Make the repository public and add the readme file.
+          b. Click Create 
+        8. Create a Repository from Webstorm
+          a. Select VCS and Import into Version Control
+        9. Import a Repository from Github
+          a. From Main page Select Checkout from version control🡪 Git  OR From within Webstorm Select VCS 🡪 Checkout from version control🡪 Git
+          b. Enter Github repository name 
+          c. Enter local pathname
+        10. Creating a Webstorm File
+          a. Choose File 🡪 HTML🡪HTML 5 or File🡪Stylesheet
+        11. Add files to Git
+          a. The Add to Git dialog opens.
+          b. Click Add. This adds to the local file system
+        12. Commit Your Changes
+        13. Push Change to Remote Repository
+          a. Click “Ctrl🡪 Shift 🡪 K”
+          b. Or “VCS 🡪 Git 🡪 Push”
+        14. File is now on Github
+        15. Set up Github Pages
+          a. Click Settings 
+          b. Check the repository name
+        16. Choose GitHub Page Location
+          a. Select “Master branch”
+          b. Note the published URL 
+        17. Check your GitHub Pages
+          a. Copy the Github.io URL into a browser
+          b. Post the URL into Moodle with your Github account URL
+        
+        Definitions:
         
         GIT- Git is an extremely popular version control system that is at the heart of a wide variety of high-profile projects. Git is installed and maintained on your local system (rather than in the cloud) and gives you a self-contained record of your ongoing programming versions.
         
@@ -91,40 +92,3 @@
    </p>
   </body>
 </html>
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/cd375/A03/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cd375/A03/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
