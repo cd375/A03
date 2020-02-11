@@ -22,7 +22,8 @@
         8. Create a Repository from Webstorm
           a. Select VCS and Import into Version Control
         9. Import a Repository from Github
-          a. From Main page Select Checkout from version control🡪 Git  OR From within Webstorm Select VCS 🡪 Checkout from version control🡪 Git
+          a. From Main page Select Checkout from version control🡪 Git  OR From within Webstorm Select VCS 🡪 Checkout
+           from version control🡪 Git
           b. Enter Github repository name 
           c. Enter local pathname
         10. Creating a Webstorm File
@@ -47,13 +48,19 @@
         
         Definitions:
         
-        GIT- Git is an extremely popular version control system that is at the heart of a wide variety of high-profile projects. Git is installed and maintained on your local system (rather than in the cloud) and gives you a self-contained record of your ongoing programming versions.
+        GIT- Git is an extremely popular version control system that is at the heart of a wide variety of high-profile 
+        projects. Git is installed and maintained on your local system (rather than in the cloud) and gives you a 
+        self-contained record of your ongoing programming versions.
         
-        GITHUB- GitHub is designed as a Git repository hosting service. It’s an online database that allows you to keep track of and share your Git version control projects outside of your local computer/server. 
+        GITHUB- GitHub is designed as a Git repository hosting service. It’s an online database that allows you to keep
+         track of and share your Git version control projects outside of your local computer/server. 
         
-        Repository- Repository in Git could be considered similar to your project folder that Git could track all the changes happening inside the folder.
+        Repository- Repository in Git could be considered similar to your project folder that Git could track all the 
+        changes happening inside the folder.
         
-        Clone- git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location. The original repository can be located on the local filesystem or on remote machine accessible supported protocols. The git clone command copies an existing Git repository.
+        Clone- git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a 
+        new directory, at another location. The original repository can be located on the local filesystem or on remote
+         machine accessible supported protocols. The git clone command copies an existing Git repository.
         
         Commit- The "commit" command is used to save your changes to the local repository.
         
@@ -61,13 +68,16 @@
         
         Pull- you are downloading the latest snapshot of git to your local machine
         
-        Branch- allows you to separate from the mainline (with the entire history of the project at that point) so that your further development doesn't disturb other works.
+        Branch- allows you to separate from the mainline (with the entire history of the project at that point) so that 
+        your further development doesn't disturb other works.
         
         Merge- merge our branch to master. To merge branches, make sure to checkout to destination branch
         
-        Merge Conflict- happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
+        Merge Conflict- happen when people make different changes to the same line of the same file, or when one person 
+        edits a file and another person deletes the same file.
         
-        Fetch- The command goes out to that remote project and pulls down all the data from that remote project that you don’t have yet.
+        Fetch- The command goes out to that remote project and pulls down all the data from that remote project that 
+        you don’t have yet.
         
         Remote- common repository that all team members use to exchange their changes
         
